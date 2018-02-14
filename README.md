@@ -1,5 +1,5 @@
 # MAMO
-
+Macro-Assignment / Micro-Optimization (MAMO) framework
 
 # Usage
 ```sh
